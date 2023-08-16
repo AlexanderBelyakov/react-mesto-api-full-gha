@@ -14,7 +14,7 @@ const { NOT_FOUND_ERROR } = require('./constants/HHTP-status-codes');
 const NotFoundError = require('./errors/not-found-error');
 const { AVATAR_REGEXP } = require('./constants/avatar-regexp');
 
-const { PORT = 3001 } = process.env;
+const { PORT = 3000 } = process.env;
 // Слушаем 3000 порт
 const { login, createUser } = require('./controllers/users');
 const auth = require('./middlewares/auth');
