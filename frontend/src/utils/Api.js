@@ -109,7 +109,7 @@ export class Api {
 }
 
 const api = new Api({
-  baseUrl: "https://api.mestogrand.nomoreparties.co/",
+  baseUrl: "https://api.mestogrand.nomoreparties.co",
 });
 
 export default api;

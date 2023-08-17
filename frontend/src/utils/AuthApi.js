@@ -42,5 +42,5 @@ export class AuthApi {
   }
 }
 
-const authApi = new AuthApi({ baseUrl: "https://api.mestogrand.nomoreparties.co/" });
+const authApi = new AuthApi({ baseUrl: "https://api.mestogrand.nomoreparties.co" });
 export default authApi;
