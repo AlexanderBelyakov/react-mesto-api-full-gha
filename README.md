@@ -10,6 +10,6 @@
 
 IP 62.84.127.253
 
-Frontend https://mestogrand.nomoreparties.co/
+Frontend https://mestogrand.nomoreparties.co
 
-Backend http://api.mestogrand.nomoreparties.co/
+Backend http://api.mestogrand.nomoreparties.co
